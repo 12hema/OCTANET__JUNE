@@ -37,4 +37,8 @@ then the server connects ,it provides the path address. Click on the address and
 
 Website Link
 
-View Website: https://12hema.github.io/OCTANET__JUNE /TASK-1(OctaNet)/
+View Website: 
+
+Note: copy entire link to view website
+
+ https://12hema.github.io/OCTANET__JUNE /TASK-1(OctaNet)/
